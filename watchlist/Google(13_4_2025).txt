@@ -1,0 +1,40 @@
+scraping https://quickfs.net/company/GOOGL:US...
+
+ROIC: [13.9, 14.5, 8.5, 18.2, 17.3, 17.4, 28.9, 21.4, 25.0, 30.6]
+EPS: [1.14, 1.39, 0.9, 2.19, 2.46, 2.93, 5.61, 4.56, 5.8, 8.04]
+REVENUE: [74989, 90272, 110855, 136819, 161857, 182527, 257637, 282836, 307394, 350018]
+PEratio: 19.3
+EQUITY: [129187, 147461, 167497, 197295, 232792, 275909, 319616, 359268, 365264, 402392, 450256]
+FCF: [16657, 26064, 24006, 22930, 30972, 42843, 67012, 60010, 69495, 72764]
+
+average ROIC (last 3 years): 25.67%
+average ROIC (last 5 years): 41.10%
+average ROIC (last 10 years): 19.57%
+
+Revenue growth rate:
+past one year: 13.87%
+past five years: 16.68%
+past 9 years: 18.67%
+
+Equity growth rate:
+past one year: 11.89%
+past five years: 10.29%
+past 10 years: 13.30%
+
+EPS growth rate:
+past one year: 38.62%
+past five years: 26.73%
+past 9 years: 24.24%
+
+FCF growth rate:
+past one year: 4.70%
+past five years: 18.63%
+past 9 years: 17.80%
+
+calculating sticker price...
+EPS: 8.04, growth: 0.13298476378443191, PE: 19.3, return_rate: 0.15
+sticker price: $133.68
+Margin of safety price: $66.84
+
+Current price: $156 ish
+Status: WATCH

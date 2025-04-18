@@ -1,0 +1,41 @@
+tencent TCTZF
+scraping https://quickfs.net/company/TCTZF:US...
+
+ROIC: [18.3, 16.1, 19.8, 15.5, 13.8, 17.4, 19.2, 14.6, 9.1, 13.8]
+EPS: [0.47, 0.63, 1.14, 1.2, 1.38, 2.53, 3.64, 2.77, 1.67, 2.81]
+REVENUE: [15950, 21957, 36061, 45425, 53793, 73718, 87940, 79543, 85294, 90686]
+PEratio: 19.6
+EQUITY: [27658, 47575, 57212, 84128, 105106, 136018, 203909, 253146, 226362, 220897, 244619]
+FCF: [6212, 8259, 14266, 13252, 17940, 24475, 22667, 17680, 28130, 35508]
+
+average ROIC (last 3 years): 12.50%
+average ROIC (last 5 years): 24.70%
+average ROIC (last 10 years): 15.76%
+
+Revenue growth rate:
+past one year: 6.32%
+past five years: 11.01%
+past 9 years: 21.30%
+
+Equity growth rate:
+past one year: 10.74%
+past five years: 12.45%
+past 10 years: 24.36%
+
+EPS growth rate:
+past one year: 68.26%
+past five years: 15.28%
+past 9 years: 21.98%
+
+FCF growth rate:
+past one year: 26.23%
+past five years: 14.63%
+past 9 years: 21.37%
+
+calculating sticker price...
+EPS: 2.81, growth: 0.2435605647026291, PE: 19.6, return_rate: 0.15
+sticker price: $120.41
+Margin of safety price: $60.20
+
+current price: 55
+status: buy

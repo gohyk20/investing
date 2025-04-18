@@ -1,0 +1,37 @@
+scraping https://quickfs.net/company/IQ:US...
+
+ROIC: [40.4, 26.5, -146.5, -38.2, -25.2, -23.0, -0.5, 6.8, 2.8]
+EPS: [-0.69, -1.98, -0.8, -2.47, -2.02, -1.46, -1.22, -0.02, 0.28, 0.11]
+REVENUE: [825, 1624, 2636, 3630, 4134, 4543, 4797, 4159, 4464, 4014]
+PEratio: 15.0
+EQUITY: [1970, 3064, 6502, 6386, 7369, 6668, 6605, 6246, 6285]
+FCF: [120, 320, 453, 330, 451, -864, -976, -35, 464, 279]
+
+average ROIC (last 3 years): 3.03%
+average ROIC (last 5 years): -13.03%
+average ROIC (last 9 years): -17.43%
+
+Revenue growth rate:
+past one year: -10.08%
+past five years: -0.59%
+past 9 years: 19.22%
+
+Equity growth rate:
+past one year: 0.62%
+past five years: -0.32%
+past 8 years: 15.61%
+
+EPS growth rate:
+past one year: -60.71%
+past five years: -54.80+32.84j%
+past 9 years: -23.37+27.89j%
+
+FCF growth rate:
+past one year: -39.87%
+past five years: -9.16%
+past 9 years: 9.83%
+
+calculating sticker price...
+EPS: 0.11, growth: 0.156058688328232, PE: 15.0, return_rate: 0.15
+sticker price: $1.74
+Margin of safety price: $0.87
